@@ -6,3 +6,4 @@
 #	3. Commits
 #	4. Command Line.
 #	5. Stage
+# 6. Online
